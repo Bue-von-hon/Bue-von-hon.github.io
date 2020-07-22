@@ -1,10 +1,14 @@
 # WELLCOME
 
-hi i'am BueVonHun
+hi i am BueVonHun
 
 codeforces
+
 boj
+
 atcoder
+
 github
+
 mail
 
