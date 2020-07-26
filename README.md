@@ -2,7 +2,9 @@
 
 hi i am BueVonHun
 
-codeforces
+안녕하세요.
+
+codeforces [link](https://codeforces.com/profile/BueVonHun)
 
 boj
 
